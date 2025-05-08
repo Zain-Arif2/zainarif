@@ -35,7 +35,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zain-Arif2/Zain-Arif2/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Zain-Arif2/zainarif/blob/output/snake.svg)
+
 
 ###
 
